@@ -1,0 +1,34 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Chuck Norris Cipher Encoder (Java)/*
+!/Chuck Norris Cipher Encoder (Java)/task/
+/Chuck Norris Cipher Encoder (Java)/task/*
+!/Chuck Norris Cipher Encoder (Java)/task/src
+
+# Project exclude paths
+/Topics/Arrays as parameters/Adding values/out/
+/Topics/Arrays as parameters/Adding values/out/production/classes/
+/Topics/Defining classes/Representing time as a class/out/
+/Topics/Defining classes/Representing time as a class/out/production/classes/
+/Topics/Getters and setters/Creating a class for a book with private properties/out/
+/Topics/Getters and setters/Creating a class for a book with private properties/out/production/classes/
+/Topics/Initializing new instances. Constructor/Account and its owner/out/
+/Topics/Initializing new instances. Constructor/Account and its owner/out/production/classes/
+/Topics/Instance methods/Counter/out/
+/Topics/Instance methods/Counter/out/production/classes/
+/Topics/Keyword  super/Fix the non-compiled hierarchy/out/
+/Topics/Keyword  super/Fix the non-compiled hierarchy/out/production/classes/
+/Topics/Overloading/Calculations with two or three numbers from input/out/
+/Topics/Overloading/Calculations with two or three numbers from input/out/production/classes/
+/Topics/Processing strings/Finding the longest word in a sentence/out/
+/Topics/Processing strings/Finding the longest word in a sentence/out/production/classes/
